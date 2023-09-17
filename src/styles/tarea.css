@@ -1,0 +1,23 @@
+button {
+  margin: 5px;
+  padding: 5px;
+  width: 70%;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+li {
+  list-style: none;
+}
+.realizada {
+  background-color: green;
+}
+.noRealizada {
+  background-color: blue;
+}
+.realizada:hover {
+  background-color: rgb(89, 142, 89);
+}
+.noRealizada:hover {
+  background-color: rgb(84, 84, 231);
+}

@@ -1,0 +1,10 @@
+article {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: burlywood;
+}
+
+hr {
+  border: 2px solid rgb(46, 119, 236);
+  height: 2px;
+  background-color: rgb(81, 220, 220);
+}
